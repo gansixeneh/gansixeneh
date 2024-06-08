@@ -2,7 +2,7 @@
 
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100%; opacity: 0.5; background: url('https://github.com/gansixeneh/gansixeneh/blob/master/gintoki.jpg?raw=true') center center / cover no-repeat;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100%; opacity: 0.4; background: url('https://github.com/gansixeneh/gansixeneh/blob/master/gintoki.jpg?raw=true') center center / cover no-repeat;]{x0000}$}
 ```
 
 <!--
