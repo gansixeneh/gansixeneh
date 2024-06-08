@@ -19,7 +19,7 @@ You can access my portfolio website here: https://gansixeneh.vercel.app
 <div>
 
 <!--
-**mm0ne/mm0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gansixeneh/gansixeneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
