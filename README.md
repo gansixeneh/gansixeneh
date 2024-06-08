@@ -5,7 +5,7 @@
 </div>
 
 ## Hey there!👋
-I'm Muflih Naufal Maxi, and you can call me Muflih. I'm currently an undergraduate Computer Science student at University of Indonesia, passionate about software engineering. My journey began with a love for mathematics, which led me to learn competitive programming and participating in contests!
+I'm Muflih Naufal Maxi, and you can call me Muflih. I'm currently an undergraduate Computer Science student at University of Indonesia, passionate about software engineering. My journey began with a love for mathematics, which led me to learn competitive programming and participating in contests! Nice to meet you 😁🙏
 
 ## My Github Stats 🏆
 [![gansixeneh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gansixeneh&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
