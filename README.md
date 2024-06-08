@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Hack%20Nerd&size=23&duration=2000&pause=1000&color=F9E2AF&center=true&random=false&width=435&lines=Hello+World!+%F0%9F%8C%90;I'm+a+Software+Engineer+%F0%9F%A4%96;Constantly+learning+%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Hack%20Nerd&size=23&duration=2000&pause=1000&color=F9E2AF&center=true&random=false&width=435&lines=Hello+World!+%F0%9F%8C%90;I'm+a+Software+Engineer+%F0%9F%A4%96;Constantly+improving+%F0%9F%92%AA%F0%9F%94%A5" alt="Typing SVG" /></a>
 </a> 
 </div>
 
@@ -17,11 +17,6 @@ You can access my portfolio website here: https://gansixeneh.vercel.app
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gansixeneh&langs_count=8&layout=compact&theme=onedark&hide=Jupyter%20Notebook&custom_title=gansixeneh's%20most%20used%20languages" alt="GitHub Stats Language">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gansixeneh&theme=onedark&hide_border=false" alt="GitHub Stats streak">
 <div>
-
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100%; opacity: 0.25; background: url('https://github.com/gansixeneh/gansixeneh/blob/master/gintoki.jpg?raw=true') center center / cover no-repeat;]{x0000}$}
-```
 
 <!--
 **mm0ne/mm0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
